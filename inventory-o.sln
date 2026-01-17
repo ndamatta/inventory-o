@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventoryo", "inventoryo.csproj", "{F22CD76E-52B6-906B-95B1-E5C280475200}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventory-o", "inventory-o.csproj", "{F32B1806-7E1A-302F-170E-CBC743DF6D32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F22CD76E-52B6-906B-95B1-E5C280475200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F22CD76E-52B6-906B-95B1-E5C280475200}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F22CD76E-52B6-906B-95B1-E5C280475200}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F22CD76E-52B6-906B-95B1-E5C280475200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32B1806-7E1A-302F-170E-CBC743DF6D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32B1806-7E1A-302F-170E-CBC743DF6D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32B1806-7E1A-302F-170E-CBC743DF6D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32B1806-7E1A-302F-170E-CBC743DF6D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FA77181E-8525-45FB-B2AA-650E7519295E}
+		SolutionGuid = {D7BF0FA6-3FB4-41DB-96A4-275E39FAEFD2}
 	EndGlobalSection
 EndGlobal
