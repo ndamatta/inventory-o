@@ -3,9 +3,9 @@ Inventory-o. Your inventory, easier.<br><br>
 Inventory management console app based on C# and the .NET ecosystem. <br>
 The goal was to work on how C# handles data persistence, work with modern libraries, and to build a complete application from scratch.
 
-This is a terminal-based inventory system that manages products through a JSON database. It supports full CRUD operations and can export data to PDF or CSV formats. The UI uses Spectre.Console to provide a clean, interactive command-line experience.
+This is a terminal-based inventory system that manages products through a JSON database. It supports full CRUD operations and can export data to PDF or CSV formats. The UI uses Spectre.Console for a clean, interactive command-line experience.
 
-I created this to explore C# fundamentals like classes, static members, file I/O with JSON serialization, and NuGet package integration. It's a practical way to learn the language syntax and project structure in a real-world scenario.
+I created this to explore C# fundamentals like classes, static members, file I/O with JSON serialization, and NuGet package integration.
 
 [Software Demo Video](https://www.youtube.com/watch?v=KEVd6ge6g-U)
 
