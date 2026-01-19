@@ -1,6 +1,6 @@
 # Overview
-Inventory-o. Your inventory, easier.
-Inventory management console app based on C# and the .NET ecosystem. 
+Inventory-o. Your inventory, easier.<br><br>
+Inventory management console app based on C# and the .NET ecosystem. <br>
 The goal was to work on how C# handles data persistence, work with modern libraries, and to build a complete application from scratch.
 
 This is a terminal-based inventory system that manages products through a JSON database. It supports full CRUD operations and can export data to PDF or CSV formats. The UI uses Spectre.Console to provide a clean, interactive command-line experience.
